@@ -36,7 +36,7 @@ function App() {
               target="_blank"
             >
               <img
-                src="./../public/lovebites.jpg"
+                src="/lovebites.jpg"
                 alt="An Image is Here"
                 className="h-56 rounded-2xl "
               />
@@ -60,7 +60,7 @@ function App() {
               target="_blank"
             >
               <img
-                src="./..//public/bear.jpg"
+                src="/bear.jpg"
                 alt="An Image is Here"
                 className="h-56 rounded-3xl"
               />
@@ -70,7 +70,7 @@ function App() {
               target="_blank"
             >
               <img
-                src="./..//public/donuts.jpg"
+                src="donuts.jpg"
                 alt="An Image is Here"
                 className="h-56 rounded-3xl"
               />
@@ -80,7 +80,7 @@ function App() {
               target="_blank"
             >
               <img
-                src="./..//public/choclate2.jpg"
+                src="choclate2.jpg"
                 alt="An Image is Here"
                 className="h-56 rounded-3xl"
               />
@@ -90,7 +90,7 @@ function App() {
               target="_blank"
             >
               <img
-                src="./..//public/choclate.jpg"
+                src="choclate.jpg"
                 alt="An Image is Here"
                 className="h-56 rounded-3xl"
               />
